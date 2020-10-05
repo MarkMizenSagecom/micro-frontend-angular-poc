@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'navbar-empty-route',
-  template: '',
+  template: 'This is a test...',
 })
 export class EmptyRouteComponent {
 }
